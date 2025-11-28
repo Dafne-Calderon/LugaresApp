@@ -9,14 +9,14 @@ Este proyecto fue creado como actividad académica para reforzar conceptos como 
 
 ##  Características principales
 
-- ✔️ **Listado dinámico** de 10–20 lugares usando RecyclerView  
-- ✔️ **Imágenes HD** cargadas desde Internet (Glide)  
-- ✔️ **Pantalla de detalle** con información completa del lugar  
-- ✔️ **Botón para abrir el sitio en Google Maps**  
-- ✔️ **Splash Screen personalizado**  
-- ✔️ **Tema elegante estilo capuchino pastel**  
-- ✔️ Arquitectura simple con **Repositorio de datos (PlaceRepository)**  
-- ✔️ Código limpio, organizado y fácil de extender  
+- **Listado dinámico** de 10–20 lugares usando RecyclerView  
+- **Imágenes HD** cargadas desde Internet (Glide)  
+- **Pantalla de detalle** con información completa del lugar  
+- **Botón para abrir el sitio en Google Maps**  
+- **Splash Screen personalizado**  
+- **Tema elegante estilo capuchino pastel**  
+- Arquitectura simple con **Repositorio de datos (PlaceRepository)**  
+
 
 ---
 
@@ -30,6 +30,7 @@ Este proyecto fue creado como actividad académica para reforzar conceptos como 
 - **Google Maps Intent**
 - **XML para diseño de interfaces**
 
+## Consideraciones
 El proyecto cumple con todos los requerimientos fundamentales de la actividad: RecyclerView, detalle, navegación entre Activities, Splash Screen, carga de imágenes con Glide y apertura de ubicación en Maps.
 
 Algunas tecnologías como StateFlow, Coroutines o MVVM completo no fueron implementadas porque son exclusivas de Kotlin.
