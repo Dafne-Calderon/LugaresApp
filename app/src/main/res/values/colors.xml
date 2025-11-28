@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Colores base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Paleta capuchino pastel -->
+    <color name="cafeClaro">#DCC7B8</color>
+    <color name="cafeOscuro">#A68B73</color>
+    <color name="cafeSuave">#E8DCD2</color>
+    <color name="cafeText">#4A3F35</color>
+
+    <!-- Colores antiguos -->
+    <color name="colorPrimary">#A68B73</color>
+    <color name="colorPrimaryDark">#4A3F35</color>
+    <color name="colorAccent">#DCC7B8</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#4A3F35</color>
+
+</resources>
