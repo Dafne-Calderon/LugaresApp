@@ -7,18 +7,6 @@ Este proyecto fue creado como actividad académica para reforzar conceptos como 
 
 ---
 
-##  Características principales
-
-- **Listado dinámico** de 10–20 lugares usando RecyclerView  
-- **Imágenes HD** cargadas desde Internet  
-- **Pantalla de detalle** con información completa del lugar  
-- **Botón para abrir el sitio en Google Maps**   
-- **Tema elegante estilo capuchino pastel**  
-- Arquitectura simple con **Repositorio de datos (PlaceRepository)**  
-
-
----
-
 ## Tecnologías utilizadas
 
 - **Java**
