@@ -15,12 +15,12 @@ Este proyecto fue creado como actividad académica para reforzar conceptos como 
 - **RecyclerView**
 - **Glide** para carga de imágenes
 - **Google Maps Intent**
-- **XML para diseño de interfaces**
+  
 
 ## Consideraciones
 El proyecto cumple con todos los requerimientos fundamentales de la actividad: RecyclerView, detalle, navegación entre Activities, Splash Screen, carga de imágenes con Glide y apertura de ubicación en Maps.
-
 Algunas tecnologías como StateFlow, Coroutines o MVVM completo no fueron implementadas porque son exclusivas de Kotlin.
+
 ---
 
 ```bash
