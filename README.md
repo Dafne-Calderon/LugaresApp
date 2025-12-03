@@ -1,6 +1,6 @@
 # LugaresApp
 
-Aplicación móvil desarrollada en **Android Studio (Java + XML)** que permite visualizar una lista de lugares reales en Chile, mostrando información relevante como nombre, descripción, dirección, imagen y ubicación geográfica.  
+Aplicación móvil desarrollada en **Android Studio** que permite visualizar una lista de lugares reales en Chile, mostrando información relevante como nombre, descripción, dirección, imagen y ubicación geográfica.  
 Cada elemento de la lista puede abrirse para ver más detalles y su localización directamente en **Google Maps**.
 
 Este proyecto fue creado como actividad académica para reforzar conceptos como RecyclerView, Adapters, navegación entre Activities y uso de Intents.
@@ -24,4 +24,4 @@ Algunas tecnologías como StateFlow, Coroutines o MVVM completo no fueron implem
 ---
 
 ```bash
-git clone https://github.com/Dafne-Calderon/LugaresApp.git
+https://github.com/Dafne-Calderon/LugaresApp.git
